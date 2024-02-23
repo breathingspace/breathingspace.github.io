@@ -1,1 +1,8 @@
-/big.html
+*.gem
+.bundle
+.jekyll-cache
+.sass-cache
+_site
+vendor
+Gemfile.lock
+/_posts/2020-07-07-overview-post.md

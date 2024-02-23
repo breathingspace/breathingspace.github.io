@@ -1,0 +1,21 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: breathingspace is a personal project all about you.
+  - title: links and projects (find more <a href="/projects">here</a>)
+    entries:
+      - title: Github
+        url: https://github.com/breathingspace
+      - title: Notion templates
+        url: https://breathingspace.github.io/notion-templates
+      - title: A guide to digital gardening
+        url: https://breathingspace.github.io/digital-gardening
+      - title: Mood tracking and journaling
+        url: https://breathingspace.github.io/mood-tracking
+  - title: blog / notebook
+    post_list:
+      limit: 2
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
